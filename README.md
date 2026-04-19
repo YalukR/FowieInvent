@@ -5,6 +5,8 @@ An open-source project by ShaulaTec
 **Version:** 0.2  
 **Date:** April 2026  
 
+## Frontend Repo https://github.com/YalukR/FowieInvent_fe.git
+
 ---
 
 ## 1. OVERVIEW
