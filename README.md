@@ -186,6 +186,12 @@ This modularity must be considered in database design and business logic, even i
 
 ---
 
+## License
+
+This software is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+
+You are free to use, modify, and distribute this software under the terms of the license. Any modifications or derivative works must also be distributed under the same license.
+
 ## FowieInvent
 
 An open-source system by ShaulaTec  
